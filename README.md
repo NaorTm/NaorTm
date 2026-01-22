@@ -1,4 +1,4 @@
-﻿# Naor Tiram
+﻿# Naor Tm
 
 MSc Electrical Engineering student · Computer Engineer
 
