@@ -13,6 +13,3 @@ Location: Hadera, Israel
 - Email: naortm@gmail.com
 - LinkedIn: https://www.linkedin.com/in/naortiram/
 - Portfolio: https://naortm.github.io/Portfolio/
-
-If you want to collaborate or hire, I reply fast with clear next steps.
-
